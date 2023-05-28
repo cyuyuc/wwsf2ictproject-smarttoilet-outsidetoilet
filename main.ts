@@ -26,6 +26,6 @@ basic.forever(function () {
         basic.showString("error")
     }
     if (sos == 999) {
-        music.playMelody("C C C5 C5 C C C5 C5 ", 400)
+        music.playMelody("C C C5 C5 C C C5 C5 ", 425)
     }
 })
