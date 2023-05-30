@@ -27,5 +27,6 @@ basic.forever(function () {
     }
     if (sos == 999) {
         music.playMelody("C C C5 C5 C C C5 C5 ", 425)
+        basic.showString("SOS")
     }
 })
